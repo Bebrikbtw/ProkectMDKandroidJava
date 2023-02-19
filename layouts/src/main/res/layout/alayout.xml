@@ -35,4 +35,12 @@
         android:text="Switch"
         tools:layout_editor_absoluteX="138dp"
         tools:layout_editor_absoluteY="479dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        tools:layout_editor_absoluteX="209dp"
+        tools:layout_editor_absoluteY="385dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
