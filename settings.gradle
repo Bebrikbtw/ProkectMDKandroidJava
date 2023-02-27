@@ -16,3 +16,7 @@ rootProject.name = "ProkectMDK"
 include ':app'
 include ':layoutfiles'
 include ':layouts'
+include ':viewbuild'
+include ':onclickbuttons'
+include ':listener'
+include ':activitylistener'
