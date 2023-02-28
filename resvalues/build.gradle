@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.activitylistener'
+    namespace 'com.example.resvalues'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.activitylistener"
+        applicationId "com.example.resvalues"
         minSdk 21
         targetSdk 33
         versionCode 1
