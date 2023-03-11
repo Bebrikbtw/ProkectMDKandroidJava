@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/activitylistener" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/contextmenu" />
             <option value="$PROJECT_DIR$/layoutfiles" />
             <option value="$PROJECT_DIR$/layouts" />
             <option value="$PROJECT_DIR$/listener" />
@@ -23,6 +24,7 @@
             <option value="$PROJECT_DIR$/onclickbuttons" />
             <option value="$PROJECT_DIR$/resvalues" />
             <option value="$PROJECT_DIR$/viewbuild" />
+            <option value="$PROJECT_DIR$/xmlmenu" />
           </set>
         </option>
       </GradleProjectSettings>
