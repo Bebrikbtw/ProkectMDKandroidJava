@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MultiplyActivities</string>
+    <string name ="about_text">
+        <b>Заглянула</b> осень в сад -\n
+        Птицы <b>улетели</b>.\n
+        За окном с утра <b>шуршат</b>\n
+        Желтые метели.\n
+        Под ногами первый лёд\n
+        <b>Крошится</b>, <b>ломается</b>.\n
+        Воробей в саду <b>вздохнёт</b>, \n
+        А запеть -\n
+        <b>Стесняется</b>.
+    </string>
+</resources>
