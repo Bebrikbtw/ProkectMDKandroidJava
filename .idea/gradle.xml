@@ -7,16 +7,19 @@
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="Android Studio java home" />
+        <option name="gradleJvm" value="jbr-11" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/activitylistener" />
+            <option value="$PROJECT_DIR$/animation" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/calculator" />
             <option value="$PROJECT_DIR$/contextmenu" />
             <option value="$PROJECT_DIR$/datatransferinactivities" />
             <option value="$PROJECT_DIR$/dinamiclayout" />
             <option value="$PROJECT_DIR$/layoutfiles" />
+            <option value="$PROJECT_DIR$/layoutparams" />
             <option value="$PROJECT_DIR$/layouts" />
             <option value="$PROJECT_DIR$/listener" />
             <option value="$PROJECT_DIR$/logandmess" />
@@ -24,6 +27,7 @@
             <option value="$PROJECT_DIR$/menusimple" />
             <option value="$PROJECT_DIR$/multiplyactivities" />
             <option value="$PROJECT_DIR$/onclickbuttons" />
+            <option value="$PROJECT_DIR$/p0131_menusimple" />
             <option value="$PROJECT_DIR$/resvalues" />
             <option value="$PROJECT_DIR$/viewbuild" />
             <option value="$PROJECT_DIR$/viewinstantiate" />
