@@ -4,14 +4,16 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="delegatedBuild" value="true" />
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="jbr-11" />
+        <option name="gradleJvm" value="Embedded JDK" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/activitylistener" />
+            <option value="$PROJECT_DIR$/activitystate" />
             <option value="$PROJECT_DIR$/animation" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/calculator" />
@@ -28,8 +30,10 @@
             <option value="$PROJECT_DIR$/multiplyactivities" />
             <option value="$PROJECT_DIR$/onclickbuttons" />
             <option value="$PROJECT_DIR$/p0131_menusimple" />
+            <option value="$PROJECT_DIR$/practika16" />
             <option value="$PROJECT_DIR$/resvalues" />
             <option value="$PROJECT_DIR$/viewbuild" />
+            <option value="$PROJECT_DIR$/viewbuildeingcomponent" />
             <option value="$PROJECT_DIR$/viewinstantiate" />
             <option value="$PROJECT_DIR$/viewinstantiate2" />
             <option value="$PROJECT_DIR$/xmlmenu" />
