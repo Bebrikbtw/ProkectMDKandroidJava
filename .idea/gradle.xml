@@ -18,6 +18,7 @@
             <option value="$PROJECT_DIR$/contextmenu" />
             <option value="$PROJECT_DIR$/datatransferinactivities" />
             <option value="$PROJECT_DIR$/dinamiclayout" />
+            <option value="$PROJECT_DIR$/externalstorage" />
             <option value="$PROJECT_DIR$/images" />
             <option value="$PROJECT_DIR$/imagescoloredrounds" />
             <option value="$PROJECT_DIR$/layoutfiles" />
@@ -28,8 +29,10 @@
             <option value="$PROJECT_DIR$/menuinflater" />
             <option value="$PROJECT_DIR$/menusimple" />
             <option value="$PROJECT_DIR$/multiplyactivities" />
+            <option value="$PROJECT_DIR$/notepad" />
             <option value="$PROJECT_DIR$/onclickbuttons" />
             <option value="$PROJECT_DIR$/p0131_menusimple" />
+            <option value="$PROJECT_DIR$/readandsave" />
             <option value="$PROJECT_DIR$/resvalues" />
             <option value="$PROJECT_DIR$/soundaoo" />
             <option value="$PROJECT_DIR$/soundpad" />

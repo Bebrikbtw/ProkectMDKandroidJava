@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">notepad</string>
+    <string name="openres">Открыть</string>
+    <string name="action_settings">Настройки</string>
+    <string name="pref_openmode">Режим открытия</string>
+    <string name="saveres">Сохранить</string>
+    <string name="action_settingsq">Настройки</string>
+    <string name="pref_size">a</string>
+    <string name="pref_style">Стиль шрифта</string>
+</resources>
